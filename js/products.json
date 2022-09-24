@@ -1,0 +1,74 @@
+[
+    {
+        "id": 3001,
+        "name": "HEAD SPEED PRO",
+        "price": 200,
+        "units": 100,
+        "inStock": true,
+        "img": "images/speed-pro.jpg"
+    },
+    {
+        "id": 1557,
+        "name": "BABOLAT PURE AERO",
+        "price": 210,
+        "units": 50,
+        "inStock": true,
+        "img": "images/pure-aero.jpg"
+    },
+    {
+        "id": 1636,
+        "name": "WILSON PRO STAFF RF97",
+        "price": 270,
+        "units": 70,
+        "inStock": true,
+        "img": "images/pro-staff.webp"
+    },
+    {
+        "id": 2886,
+        "name": "YONEX EZONE 98",
+        "price": 200,
+        "units": 45,
+        "inStock": true,
+        "img": "images/ezone-98.webp"
+    },
+    {
+        "id": 9720,
+        "name": "VOLKL V8 PRO",
+        "price": 150,
+        "units": 100,
+        "inStock": true,
+        "img": "images/volkl-v8.webp"
+    },
+    {
+        "id": 5755,
+        "name": "HEAD EXTREME PRO",
+        "price": 150,
+        "units": 75,
+        "inStock": true,
+        "img": "images/extreme-pro.jpg"
+    },
+    {
+        "id": 4266,
+        "name": "HEAD RADICAL PRO",
+        "price": 120,
+        "units": 100,
+        "inStock": true,
+        "img": "images/radical-pro.jpg"
+    },
+    {
+        "id": 514,
+        "name": "BABOLAT PURE DRIVE",
+        "price": 220,
+        "units": 50,
+        "inStock": true,
+        "img": "images/pure-drive.webp"
+    },
+    {
+        "id": 3399,
+        "name": "WILSON BLADE PRO",
+        "price": 220,
+        "units": 80,
+        "inStock": true,
+        "img": "images/blade-pro.webp"
+    }
+]
